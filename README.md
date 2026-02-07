@@ -1,4 +1,3 @@
-
 <html lang="en">
 <head>
 <meta charset="UTF-8" />
@@ -129,7 +128,7 @@ document.addEventListener("click", function(e) {
 });
 
 // ⏳ COUNTDOWN TIMER
-// 👉 CHANGE THIS DATE (2026-02-14T12:00:00)
+// 👉 CHANGE THIS DATE (2026-02-07T00:00:00)
 const targetDate = new Date("2026-02-14T00:00:00").getTime();
 const countdownEl = document.getElementById("countdown");
 const letter = document.getElementById("loveLetter");
